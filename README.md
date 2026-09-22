@@ -1,6 +1,5 @@
 # Bitcoin Sentiment vs Hyperliquid Trader Performance
 
-This workspace contains a reproducible first-step analysis for the hiring assignment.
 
 ## Files
 
